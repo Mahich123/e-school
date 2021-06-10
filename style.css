@@ -1,0 +1,150 @@
+.container-fluid {
+  padding: 3% 15%;
+}
+#title {
+    background-color: #F0FFF0;
+}
+
+.ham{
+    margin: 0 -37px 0px 0px;
+}
+h1 {
+    line-height: 55px;
+    font-family: 'Poppins', sans-serif;
+}
+#testimonial h2 {
+    font-size: 37px;
+    font-family: 'Poppins', sans-serif;
+}
+#courses h2 {
+    font-size: 27px;
+    font-family: 'Poppins', sans-serif;
+    color: #413960;
+    padding: 0 0 0 0;
+    text-align: center;
+    margin-top: 1.5rem;
+}
+#topic h2{
+    margin-top: 6px;
+    color: #413960;
+}
+h6 {
+    color: #FD511A;
+}
+
+h5 {
+    color: #413960;
+}
+.frame {
+    width: 97%;
+}
+.GET {
+   background:  #21B573;
+   border: none;
+   border-radius: 33px;
+   padding: 10px 17px;
+   color: #fff;
+}
+span {
+    color : #21B573
+}
+.signup {
+    border-radius: 33px;
+}
+.lorem {
+    line-height: 29px;
+}
+.group {
+    width: 140.07px;
+    height: 59px;
+    margin: 0px 0px 0px -21%;
+}
+.bo {
+    width: 66px;
+    height: 85px;
+    margin-left: 32%;
+}
+h2 {
+    font-size: 145%;
+    padding-left: 16%;
+}
+h4 {
+    color: #fff;
+    font-size: 21px;
+}
+.col-md-3 p {
+    padding-left: 25.5%;
+    font-size: 14px;
+}
+#topic {
+    padding-top: 7%;
+}
+.col-md-3 {
+    padding-top: 3%;
+    background: #F8FFFB;
+}
+.col-md-3:hover {
+    box-shadow: 10px 10px 10px lightgray;
+    background: #fff;
+}
+.buy-btn {
+    background: #21B573;
+    border: none;
+    border-radius: 33px;
+    height: 35px;
+    width: 110px;
+    color: #fff;
+}
+.cc {
+    display: flex;
+    justify-content: space-around;
+    font-size: .9rem;
+    border: none;
+}
+.ico {
+    Width : 18px;
+    Height : 20px;
+
+}
+.ab {
+    padding: 12px 10px 0px 13px;
+}
+.card {
+    border-radius: 18px;
+}
+.col-md-4 img {
+   width: 120px;
+   height: 120px;
+   
+}
+.col-md-4 {
+    padding: 0 0 0 3.5rem;
+}
+ .col-md-8  {
+    margin-top: 26px;
+} 
+#testimonial {
+    padding: 7%;
+}
+.testi {
+    margin-top: 24px;
+}
+#other {
+    background: #282531;
+   /* height: 100vh; */
+}
+#other h6  {
+   color: #dddddd;
+   font-size: 13px;
+   /* line-height: 2; */
+}
+.other {
+    padding-top: 3rem;
+}
+.col-md-2 h6{
+    padding: 0 0 0 42px;
+}
+
+.col-md-2 h4 {
+    padding: 0 38px;
+}
